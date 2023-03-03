@@ -36,5 +36,5 @@ window.onload = function() {
   }
 
 function showmessage2() {
-    alert("Login first");
+    alert("Login first to upload photo/s");
   }
