@@ -24,7 +24,7 @@ window.onclick = function(event) {
     }
 }
 function showMessage() {
-  alert("This feature is not yet ready.");
+  alert("The database of this feature is not yet ready.");
 }
 // Code to display the pop-up when the page loads
 window.onload = function() {
